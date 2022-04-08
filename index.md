@@ -1,5 +1,5 @@
 # Typer
 
-A tower defense like typing game. Characters can be case sensitive or insensitive. Wrong characters decrease the score. Click button to change case sensitivity. Pause by pressing _ESC_.
+Gõ chữ tương ứng trước khi chúng tiến đến gần.
 
 [![button](play.png)](typer.html)
